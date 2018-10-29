@@ -1,0 +1,2 @@
+# segitiga
+tugas membuat segitiga
